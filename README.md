@@ -1,3 +1,4 @@
+**What breed is your dog?**
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
@@ -18,3 +19,4 @@ Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip th
 **How do we do it?** 
 
 
+copyright - Udacity
