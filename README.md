@@ -1,4 +1,5 @@
-**What breed is your dog?**
+**What breed is your dog?** <br>
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
