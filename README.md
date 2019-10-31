@@ -8,7 +8,6 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 
 ![Sample Output][image1]
 
-Along with exploring state-of-the-art CNN models for classification and localization, you will make important design decisions about the user experience for your app.  Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  Your imperfect solution will nonetheless create a fun user experience!
 
 **Where to get the data:**
 
