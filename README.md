@@ -19,5 +19,5 @@ Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip th
 
 **How do we do it?** 
 
-
+The most important step in building networks and getting answers is knowing what you're doing. As we become comfortable building and coding, we tend to do a lot of copy-pasting of various fragments of the code, this may not be bad but if this your default mode then it's a big red flag. So, in the spirit of understanding our networks, let's start with the most important building block - <b> the data. </b> What are we working with? 
 copyright - Udacity
